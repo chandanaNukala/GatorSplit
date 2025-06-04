@@ -1,4 +1,4 @@
-# GatorSplit
+<img width="1496" alt="image" src="https://github.com/user-attachments/assets/59b815ac-6030-4abd-82e7-f52b316c963f" /># GatorSplit
 
 ## Project Description  
 **GatorSplit** is a simple and easy-to-use app that helps anyone manage shared expenses effortlessly. Whether it’s splitting rent with roommates, dividing up a group dinner bill, or keeping track of who paid what on a trip, GatorSplit makes it fair and hassle-free.  
@@ -80,6 +80,15 @@ React Frontend Tests:
 `cd frontend`
 
 `npm test`
+
+HomePage:
+<img width="1452" alt="image" src="https://github.com/user-attachments/assets/daf2173b-c1cb-4ddf-bf5b-74c1d619925b" />
+
+User Dashboard:
+<img width="1456" alt="image" src="https://github.com/user-attachments/assets/58ee4c69-675a-4fec-9d0c-0ded17362d81" />
+
+groups and Expenses:
+<img width="1496" alt="image" src="https://github.com/user-attachments/assets/896a8405-a343-438f-a302-64c5a0e28e77" />
 
 
 ## Project Members  
